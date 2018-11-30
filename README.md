@@ -12,6 +12,12 @@ flask 개념은 미리 숙지해 둘 것.
 git clonme https://github.com/Lo0uis/Emotion-Object-Detection
 ```
 
+2. 압축풀기
+```
+unzip darknet.zip
+unzip flask-rest.zip
+```
+
 2. flask폴더로 이동
 ```
 cd flask-rest
@@ -57,5 +63,3 @@ wget https://www.dropbox.com/s/byi68nnms86onx3/yolov3_emotion.weights
 ```
 
 다시 처음으로 돌아가 실행하면 정상 작동.
-
-****
