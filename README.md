@@ -8,9 +8,9 @@ ubuntu16.04, cuda9.0, cudnn7.0환경에서 진행.\
 flask 개념은 미리 숙지해 둘 것.
 
 1. 실행을 위해 해당 git clone하여 다운로드
-```
+'''
 git clone https://github.com/Lo0uis/Emotion-Object-Detection
-```
+'''
 
 2. 압축풀기
 ```
